@@ -28,8 +28,6 @@ This project is created as a practice project to improve frontend skills.
 
 ## 📷 Screenshots
 
-(Add screenshots of your project here if you want. Example:)
-
 ![screenshot](./Screenshot.png)
 
 ---
