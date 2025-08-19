@@ -28,7 +28,7 @@ This project is created as a practice project to improve frontend skills.
 
 ## 📷 Screenshots
 
-![screenshot](./Screenshot.png)
+![YouTube Login Page](./yt/Screenshot.png)
 
 ---
 
